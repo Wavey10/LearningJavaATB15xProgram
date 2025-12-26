@@ -4,7 +4,7 @@ public class Addition {
 
     public static void main(String[] args) {
 
-        int x=10,y=50;
+        int x=10,y=60;
         System.out.println(x+y);
     }
 }
