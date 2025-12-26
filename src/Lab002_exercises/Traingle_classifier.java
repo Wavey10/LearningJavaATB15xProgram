@@ -8,7 +8,7 @@ public class Traingle_classifier {
         int z = Integer.parseInt(args[2]);
        */
 
-        int x=30,y=50,z=20;
+        int x=20,y=50,z=20;
 
         if (x == y && y== z && x==z)
         {
