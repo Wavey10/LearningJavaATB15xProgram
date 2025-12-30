@@ -3,7 +3,7 @@ package Lab002_exercises;
 import java.util.Scanner;
 
 public class Traingle_classifier {
-    static void main(String[] args) {
+    static void main(String args[]) {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the value for x:");
