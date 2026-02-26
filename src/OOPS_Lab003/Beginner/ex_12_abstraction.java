@@ -1,4 +1,4 @@
-package OOPS_Lab003;
+package OOPS_Lab003.Beginner;
 
 public class ex_12_abstraction {
 

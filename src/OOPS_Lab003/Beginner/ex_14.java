@@ -1,9 +1,10 @@
-package OOPS_Lab003;
+package OOPS_Lab003.Beginner;
 
 public class ex_14 {
     public static void main() {
-        Loginpage l1 = new Loginpage();
+        LoginPage l1 = new LoginPage();
         l1.login();
+        l1.waitForElement();
 
     }
 }

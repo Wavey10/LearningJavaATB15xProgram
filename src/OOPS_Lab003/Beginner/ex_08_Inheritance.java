@@ -1,6 +1,4 @@
-package OOPS_Lab003;
-
-import org.testng.annotations.Test;
+package OOPS_Lab003.Beginner;
 
 
 public class ex_08_Inheritance {

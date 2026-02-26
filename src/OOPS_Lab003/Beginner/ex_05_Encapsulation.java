@@ -1,10 +1,10 @@
-package OOPS_Lab003;
+package OOPS_Lab003.Beginner;
 
 public class ex_05_Encapsulation {
 
    public static void main(String[] args) {
 
-       Loginpage l1 = new Loginpage();
+       loginpage l1 = new loginpage();
        l1.setUsername("Vanas");
        l1.setPassword("Qwert123#");
        System.out.println("Username is: " + l1.getUsername());
@@ -13,7 +13,7 @@ public class ex_05_Encapsulation {
     }
 }
 
-class Loginpage
+class loginpage
 {
     private String username;
     private String password;
