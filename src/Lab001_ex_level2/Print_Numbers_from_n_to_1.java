@@ -15,6 +15,6 @@ public class Print_Numbers_from_n_to_1 {
             System.out.println(i);
 
         }
-        scanner.close();
+
     }
 }
