@@ -4,7 +4,7 @@ public class Challenge_3 {
 
     public static void main(String[] args)
     {
-        Employee e1=new Employee(1,"John Doe",50000);
+        Employeee e1=new Employeee(1,"John Doe",50000);
 
         System.out.println(e1);
 
@@ -12,13 +12,13 @@ public class Challenge_3 {
 
 }
 
-class Employee
+class Employeee
 {
     private int id;
     private String name;
     private int salary;
 
-    public Employee(int id,String name, int salary) {
+    public Employeee(int id,String name, int salary) {
         this.id = id;
         this.salary = salary;
         this.name = name;
